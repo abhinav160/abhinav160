@@ -9,3 +9,4 @@ a passionate **Computer Science Student** focusing on **Cyber Threat Intelligenc
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/abhinav-a2a871236/)
 - [GitHub](https://github.com/abhinav160)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav160&show_icons=true&theme=radical)
