@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm [Abhinav], a passionate **Computer Science Student** focusing on **Cyber Threat Intelligence** and **Data Structures & Algorithms**.  
+I'm Abhinav,
+a passionate **Computer Science Student** focusing on **Cyber Threat Intelligence** and **Data Structures & Algorithms**.  
 
 - 🔭 Currently working on improving my **Java** and **Python** skills.
 - 🌱 Learning new technologies and **problem-solving** techniques.
